@@ -1,2 +1,2 @@
 ls -a
-flutter/binflutter build apk --debug
+flutter/bin/flutter build apk --debug
